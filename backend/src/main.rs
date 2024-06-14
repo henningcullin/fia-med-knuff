@@ -1,4 +1,4 @@
-mod account;
+mod auth;
 mod game;
 
 fn main() {

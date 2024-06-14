@@ -1,6 +1,5 @@
 pub struct Player {
     pub color: Color,
-    pub user: User,
 }
 
 pub struct Piece {
@@ -16,3 +15,5 @@ pub enum Color {
     Purple,
     Pink,
 }
+
+pub struct Board {}
