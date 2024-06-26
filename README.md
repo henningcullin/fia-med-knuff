@@ -4,9 +4,12 @@
 
 ### Frontend
 
+- TypeScript
 - React
 - Tauri
 
 ### Backend
 
+- Rust
+  - Tonic
 - Postgres
